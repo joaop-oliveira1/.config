@@ -52,7 +52,7 @@ font:
   # The normal (roman) font face to use.
   # Style can be specified to pick a specific face.
   normal:
-     family: "MesloLGS NF"
+     family: "Cascadia Code PL"
 
 
   # Point size of the font
